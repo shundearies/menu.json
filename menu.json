@@ -15,13 +15,6 @@
       "acceso": "gratis"
     },
     {
-      "id": "Prueba",
-      "titulo": "Prueba",
-      "url": "https://magma-7uy.pages.dev/",
-      "icono": "https://img.freepik.com/vector-gratis/ejemplo-lindo-icono-vector-historieta-zanahoria-mordedura-conejo-concepto-icono-naturaleza-animal-plano-aislado_138676-7366.jpg?semt=ais_incoming&w=740&q=80",
-      "acceso": "gratis"
-    },
-    {
       "id": "juego_mosca",
       "titulo": "Juego de la mosca",
       "url": "nativa",
