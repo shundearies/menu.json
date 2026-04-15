@@ -29,6 +29,13 @@
       "acceso": "gratis"
     },
     {
+      "id": "premium_gratis",
+      "titulo": "Cursos Java",
+      "url": "https://corsproxy.io/?url=https://premium4.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
       "id": "juego_mosca",
       "titulo": "Juego de la mosca",
       "url": "nativa",
