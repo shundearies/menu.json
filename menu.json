@@ -16,22 +16,43 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Cursos programacion",
+      "titulo": "Premium 1",
+      "url": "https://corsproxy.io/?url=https://m.skippertv.com",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 2",
       "url": "https://corsproxy.io/?url=https://shundearies.github.io/skipperImg/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
-      "titulo": " Próximamente Cursos programacion 2",
+      "titulo": "Premium 3",
+      "url": "https://corsproxy.io/?url=https://m.skippertv.com",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 4",
       "url": "https://corsproxy.io/?url=https://premium3.pages.dev/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
-      "titulo": "Cursos Java",
+      "titulo": "Entrenamiento 1",
       "url": "https://corsproxy.io/?url=https://m.skippertv.com",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 5",
+      "url": "https://corsproxy.io/?url=https://premium4.pages.dev/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
