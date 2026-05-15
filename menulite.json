@@ -17,14 +17,14 @@
     {
       "id": "premium_gratis",
       "titulo": "Premium 1 Cine y Deportes",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/PlusCineyseries.json",
+      "url": "https://corsproxy.io/?url=https://premium1.pages.dev/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Premium 2 Cine",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/tvplusdeportes.json",
+      "url": "https://corsproxy.io/?url=https://peemium2.pages.dev/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
@@ -38,7 +38,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Premium 4 Deportes",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/premium4.m3u",
+      "url": "https://corsproxy.io/?url=https://premium4.pages.dev/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
@@ -52,7 +52,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Premium 5",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/Conejitas.json",
+      "url": "https://corsproxy.io/?url=https://premium5.pages.dev/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
