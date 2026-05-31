@@ -1,5 +1,12 @@
 {
   "menu": [
+       {
+      "id": "panel",
+      "titulo": "videomenu",
+      "video": "https://github.com/shundearies/Videos/raw/refs/heads/main/sherk.mp4",
+      "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
+      "acceso": "gratis"
+    },    
     {
       "id": "privacidad",
       "titulo": "Política de privacidad",
@@ -15,11 +22,12 @@
       "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
       "acceso": "gratis"
     },
-        {
-      "id": "panel",
-      "titulo": "videomenu",
-      "video": "https://github.com/shundearies/Videos/raw/refs/heads/main/sherk.mp4",
-      "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
+ 
+    {
+      "id": "juego_mosca",
+      "titulo": "Juego de la mosca",
+      "url": "nativa",
+      "icono": "https://drive.usercontent.google.com/u/0/uc?id=1a8nArGkPXGyANpB11Dm34LShHeS_265N&export=download",
       "acceso": "gratis"
     },
     {
@@ -76,13 +84,6 @@
       "titulo": "VIX",
       "url": "https://corsproxy.io/?url=https://proxima-ci3.pages.dev/",
       "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
-      "acceso": "gratis"
-    },
-    {
-      "id": "juego_mosca",
-      "titulo": "Juego de la mosca",
-      "url": "nativa",
-      "icono": "https://drive.usercontent.google.com/u/0/uc?id=1a8nArGkPXGyANpB11Dm34LShHeS_265N&export=download",
       "acceso": "gratis"
     }
   ]
