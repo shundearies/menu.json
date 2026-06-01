@@ -67,8 +67,8 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Deportes",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/Conejitas.json",
+      "titulo": "Entretenimiento España",
+      "url": "https://github.com/shundearies/Canales-Iptv/raw/refs/heads/main/PeliculasEspa%C3%B1a1.m3u",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31V_9Ht_LW_Y7QAtF3h_j5mJ9VMnpWGVJjDiMZooazdwLei4Ut4csKqA&s=10",
       "acceso": "gratis"
     },
