@@ -75,14 +75,14 @@
     {
       "id": "premium_gratis",
       "titulo": "Pluto Tv",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/test.m3u",
+      "url": "https://proxima-ci3.pages.dev/",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "VIX",
-      "url": "https://corsproxy.io/?url=https://proxima-ci3.pages.dev/",
+      "url": "https://proxima-ci3.pages.dev/",
       "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
       "acceso": "gratis"
     },
