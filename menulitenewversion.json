@@ -39,8 +39,8 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Experimental",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/premium2/",
+      "titulo": "Experimental Full HD",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
@@ -85,6 +85,62 @@
       "url": "https://corsproxy.io/?url=https://proxima-ci3.pages.dev/",
       "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
       "acceso": "gratis"
-    }
+    },
+    {
+      "id": "EspañaLocal",
+      "titulo": "España Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/canalesdelaweb.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Argentina Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/argentina.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Colombia Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Multipais Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Honduras Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/honduras.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Mexico Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/mexico.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Ecuador Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/ecuador.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Costa Rica Locales",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/costarica.m3u",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "gratis"
+    },
   ]
 }
