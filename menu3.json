@@ -27,7 +27,7 @@
       "titulo": "Premium 1",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium1/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
@@ -41,12 +41,12 @@
       "titulo": "Premium 3",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium3",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Premium 4",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/premium4/",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
@@ -55,14 +55,14 @@
       "titulo": "Entretenimiento Latino",
       "url": "https://shundearies.github.io/Paginas-de-acceso/movies%201/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Entretenimiento España",
       "url": "https://shundearies.github.io/Paginas-de-acceso/EntretenimientoEspana1/",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spain_film_clapperboard.svg/500px-Spain_film_clapperboard.svg.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
@@ -83,63 +83,63 @@
       "titulo": "España Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/EspanaLocales/",
       "icono": "https://www.flagsonline.it/uploads/2016-9-2/420-272/spagna.jpg",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Argentina Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/ArgentinaLocales/",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Colombia Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/ColombiaLocales/",
       "icono": "https://www.flagsonline.it/uploads/2016-6-6/420-272/colombia.jpg",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Multipaises Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/MultipaisLocales/",
       "icono": "https://thumbs.dreamstime.com/b/banderas-internacionales-del-mundo-del-globo-33017697.jpg?w=768",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Honduras Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/HondurasLocales/",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg/330px-Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Mexico Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/MexicoLocales/",
       "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Ecuador Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/EcuadorLocales/",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Costa Rica Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/CostaricaLocales/",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/1920px-Flag_of_Costa_Rica_%28state%29.svg.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
       "titulo": "Conejitas Traviesas",
       "url": "https://shundearies.github.io/Paginas-de-acceso/Adultos/",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
-      "acceso": "gratis",
+      "acceso": "anuncio",
       "contrasena": "12345"
     }
   ]
