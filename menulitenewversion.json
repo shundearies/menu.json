@@ -76,7 +76,7 @@
       "titulo": "Pluto Tv",
       "url": "https://proxima-ci3.pages.dev/",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-      "acceso": "anuncio"
+      "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
@@ -90,7 +90,7 @@
       "titulo": "España Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/EspanaLocales/",
       "icono": "https://www.flagsonline.it/uploads/2016-9-2/420-272/spagna.jpg",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
