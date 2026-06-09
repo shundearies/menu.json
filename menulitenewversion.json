@@ -74,9 +74,10 @@
     {
       "id": "premium_gratis",
       "titulo": "Pluto Tv",
-      "url": "https://proxima-ci3.pages.dev/",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.xxx",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis"
+      "contrasena": "pluto1"
     },
     {
       "id": "premium_gratis",
