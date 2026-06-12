@@ -83,7 +83,8 @@
       "titulo": "VIX",
       "url": "https://proxima-ci3.pages.dev/",
       "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "contrasena": "vix1"
     },
     {
       "id": "España Locales",
