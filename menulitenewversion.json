@@ -21,7 +21,6 @@
       "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
       "acceso": "gratis"
     },
- 
     {
       "id": "juego_mosca",
       "titulo": "Juego de la mosca",
@@ -156,6 +155,14 @@
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
       "acceso": "anuncio",
       "contrasena": "12345"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "en revisión Full HD",
+      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
+      "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
+      "acceso": "anuncio",
+      "contrasena": "tarjeta"
     }
   ]
 }
