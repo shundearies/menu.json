@@ -158,6 +158,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Honduras Premium",
+      "url": "https://honduraspremium.pages.dev/",
+      "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "en revisión Full HD",
       "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
