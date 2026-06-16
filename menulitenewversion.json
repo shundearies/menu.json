@@ -165,6 +165,27 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "LG Channels",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/LGChannels.m3u",
+      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/09/LG-Channels-logo-300x214.png",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Es_Rakuten Tv",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
+      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "mx_Samsung",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
+      "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "en revisión Full HD",
       "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
