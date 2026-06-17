@@ -32,14 +32,14 @@
       "id": "contacto",
       "titulo": "información tvbox y contacto",
       "url": "https://contacto-5gw.pages.dev/",
-      "icono": " ",
+      "icono": "https://img.magnific.com/vector-gratis/iconos-contacto-3d_1053-96.jpg?semt=ais_hybrid&w=740&q=80",
       "acceso": "Gratis"
     },
     {
       "id": "contacto",
       "titulo": "Como usar SkipperTv",
       "url": "https://usoskippertv.pages.dev/",
-      "icono": "https://img.magnific.com/vector-gratis/iconos-contacto-3d_1053-96.jpg?semt=ais_hybrid&w=740&q=80",
+      "icono": " ",
       "acceso": "Gratis"
     },
      {
