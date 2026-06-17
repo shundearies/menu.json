@@ -46,9 +46,10 @@
     {
       "id": "premium_gratis",
       "titulo": "Premium 3 24/7",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/24-7.json.xxx",
       "icono": "http://i.tvcluboficial.com/247.png",
-      "acceso": "anuncio"
+      "acceso": "gratis",
+      "contrasena": "247"
     },
     {
       "id": "premium_gratis",
