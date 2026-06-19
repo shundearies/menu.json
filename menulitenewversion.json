@@ -72,6 +72,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Premium 5 EC",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EcuadoPremiumLogo.m3u",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Entretenimiento Latino",
       "url": "https://shundearies.github.io/Paginas-de-acceso/movies%201/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
@@ -98,13 +105,6 @@
       "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
       "acceso": "gratis",
       "contrasena": "vix1"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Ecuador Premium",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EcuadoPremiumLogo.m3u",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png",
-      "acceso": "gratis"
     },
     {
       "id": "España Locales",
