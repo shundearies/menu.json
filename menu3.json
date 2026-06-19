@@ -66,6 +66,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Eventos EC",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EventosEC.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Entretenimiento Latino",
       "url": "https://shundearies.github.io/Paginas-de-acceso/movies%201/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
@@ -156,13 +163,6 @@
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
       "acceso": "anuncio",
       "contrasena": "12345"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Honduras Premium",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/honduraspremium.m3u",
-      "icono": "https://t4.ftcdn.net/jpg/01/06/04/07/360_F_106040761_zMDHkR14ilr7hkkca7lGpj6QWaMj1zEq.webp",
-      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
