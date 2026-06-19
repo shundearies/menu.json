@@ -86,13 +86,6 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Eventos Deportes",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/eventos2.json.xxx",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
       "titulo": "Entretenimiento Latino",
       "url": "https://shundearies.github.io/Paginas-de-acceso/movies%201/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
