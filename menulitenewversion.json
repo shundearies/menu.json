@@ -93,6 +93,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Premium 8",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium8.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Premium 5 EC",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EcuadoPremiumLogo.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
