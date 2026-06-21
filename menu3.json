@@ -45,7 +45,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 3 24/7",
+      "titulo": "Premium 3 (inactivo, en revision)",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
       "icono": "http://i.tvcluboficial.com/247.png",
       "acceso": "anuncio"
@@ -111,8 +111,7 @@
       "titulo": "VIX",
       "url": "https://proxima-ci3.pages.dev/",
       "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
-      "acceso": "gratis",
-      "contrasena": "vix1"
+      "acceso": "gratis"
     },
     {
       "id": "España Locales",
