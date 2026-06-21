@@ -59,6 +59,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Usuarios Premium (Prueba Piloto)",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "anuncio",
+      "contrasena": "09876"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Premium 5",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium5.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
