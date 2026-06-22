@@ -97,7 +97,7 @@
       "titulo": "Premium 6",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium6.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
@@ -132,7 +132,7 @@
       "titulo": "Entretenimiento Latino",
       "url": "https://shundearies.github.io/Paginas-de-acceso/movies%201/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
@@ -216,7 +216,8 @@
       "titulo": "Conejitas Traviesas",
       "url": "https://shundearies.github.io/Paginas-de-acceso/Adultos/",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
-      "acceso": "gratis"
+      "acceso": "anuncio"
+      "contrasena": "12345"
     },
     {
       "id": "premium_gratis",
@@ -241,7 +242,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "en revisión Full HD",
+      "titulo": "En revisión Full HD",
       "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
       "acceso": "anuncio",
