@@ -227,5 +227,21 @@
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "anuncio"
     }
+    {
+      "id": "premium_gratis",
+      "titulo": "Canales Full HD",
+      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
+      "icono": " ",
+      "acceso": "gratis",
+      "contrasena": "2345"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Canales full hd web",
+      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdtelegratuita.json(1).zzz",
+      "icono": " ",
+      "acceso": "gratis",
+      "contrasena": "2345"
+    }
   ]
 }
