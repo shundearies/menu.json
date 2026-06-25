@@ -67,7 +67,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Mexico Locales",
-      "url": "yyy",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/MexicoLocales.m3u",
       "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
       "acceso": "anuncio"
     },
