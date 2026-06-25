@@ -66,6 +66,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Mexico Locales",
+      "url": "https://raw.githubusercontent.com/PABLOPOM/m3u/refs/heads/main/TELEVISION",
+      "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Usuarios Premium (Prueba Piloto)",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
@@ -203,8 +210,7 @@
       "titulo": "Conejitas Traviesas",
       "url": "https://shundearies.github.io/Paginas-de-acceso/Adultos/",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
-      "acceso": "anuncio",
-      "contrasena": "12345"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
