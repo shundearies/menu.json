@@ -59,7 +59,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Ultra Premmium 2 (Prueba Piloto)",
+      "titulo": "Ultra Premium 2 (Prueba Piloto)",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio"
@@ -97,7 +97,7 @@
       "titulo": "Premium 6",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium6.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "anuncio"
+      "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
