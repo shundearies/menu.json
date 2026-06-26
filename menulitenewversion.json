@@ -45,7 +45,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Ultra Premium (Prueba Piloto)",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/UltraPremium.m3u",
+      "url": "http://cdn-abc.xyz:2086/get.php?username=CanalesVen&password=NF8sq6nCEq&type=m3u_plus",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio"
     },
