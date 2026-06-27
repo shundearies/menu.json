@@ -46,10 +46,10 @@
     {
       "id": "premium_gratis",
       "titulo": "Premium 1",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/PlusCineyseries.json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.xxx",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
-      "reproductor": "webview_screen2"
+      "reproductor": " "
     },
     {
       "id": "premium_gratis",
