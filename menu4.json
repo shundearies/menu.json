@@ -246,7 +246,8 @@
       "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
       "icono": " ",
       "acceso": "gratis",
-      "contrasena": "2345"
+      "contrasena": "2345",
+      "reproductor":"ReproductorFullScreen2"
     },
     {
       "id": "premium_gratis",
