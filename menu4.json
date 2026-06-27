@@ -247,7 +247,7 @@
       "icono": " ",
       "acceso": "gratis",
       "contrasena": "2345",
-      "reproductor":"ReproductorFullScreen2"
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
