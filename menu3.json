@@ -34,7 +34,7 @@
       "titulo": "Mexico Premium",
       "url": "http://cablemaxsigloxxi.com:8000/playlist.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
@@ -54,13 +54,6 @@
       "id": "premium_gratis",
       "titulo": "Web Free Full HD",
       "url": "https://teledeportes.org/?p=tv",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Ultra Premium 2 (Prueba Piloto)",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio"
     },
@@ -146,8 +139,7 @@
       "titulo": "Pluto Tv",
       "url": "https://shundearies.github.io/Paginas-de-acceso/PlutoTv/",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-      "acceso": "anuncio",
-      "reproductor": "ReproductorFullScreen2"
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
@@ -239,22 +231,6 @@
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Canales Full HD",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
-      "icono": " ",
-      "acceso": "gratis",
-      "contrasena": "2345"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Canales full hd web",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdtelegratuita.json(1).zzz",
-      "icono": " ",
-      "acceso": "gratis",
-      "contrasena": "2345"
     }
   ]
 }
