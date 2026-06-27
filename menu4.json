@@ -146,7 +146,8 @@
       "titulo": "Pluto Tv",
       "url": "https://shundearies.github.io/Paginas-de-acceso/PlutoTv/",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-      "acceso": "anuncio"
+      "acceso": "gratis",
+      "reproductor": "ReproductorFullScreen2"
     },
     {
       "id": "premium_gratis",
