@@ -14,7 +14,6 @@
       "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
       "acceso": "gratis"
     },
- 
     {
       "id": "juego_mosca",
       "titulo": "Juego de la mosca",
@@ -31,14 +30,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Mexico Premium",
-      "url": "http://cablemaxsigloxxi.com:8000/playlist.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Ultra Premium 2 (Prueba Piloto)",
+      "titulo": "Ultra Premium  (Prueba Piloto)",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio"
@@ -63,13 +55,6 @@
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
       "icono": "http://i.tvcluboficial.com/247.png",
       "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium 4",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
