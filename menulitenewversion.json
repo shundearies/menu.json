@@ -44,19 +44,12 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Mexico Premium",
-      "url": "http://cablemaxsigloxxi.com:8000/playlist.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Ultra Premmium 2 (Prueba Piloto)",
+      "titulo": "Ultra Premium  (Prueba Piloto)",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio"
     },
-     {
+    {
       "id": "premium_gratis",
       "titulo": "Premium 1",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium1/",
@@ -72,24 +65,17 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Web Free Full HD 2",
-      "url": "https://novacuentas.site/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium 3 (inactivo , en revision)",
+      "titulo": "Premium 3 (inactivo, en revision)",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
       "icono": "http://i.tvcluboficial.com/247.png",
       "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 4",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "titulo": "Mexico Locales",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/MexicoLocales.m3u",
+      "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
@@ -103,7 +89,7 @@
       "titulo": "Premium 6",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium6.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "anuncio"
+      "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
@@ -157,7 +143,7 @@
     {
       "id": "premium_gratis",
       "titulo": "VIX",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/",
+      "url": "https://proxima-ci3.pages.dev/",
       "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
       "acceso": "gratis"
     },
@@ -240,18 +226,10 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "mx_Samsung",
+      "titulo": "Mx_Samsung",
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "En revisión Full HD",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
-      "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
-      "acceso": "anuncio",
-      "contrasena": "tarjeta"
     }
   ]
 }
