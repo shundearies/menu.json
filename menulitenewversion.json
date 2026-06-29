@@ -58,44 +58,30 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 3 (inactivo, en revision)",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
-      "icono": "http://i.tvcluboficial.com/247.png",
+      "titulo": "Pluto Tv",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/PlutoTv/",
+      "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 4",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EcuadoPremiumLogo.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "titulo": "LG Channels",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/LGChannels.m3u",
+      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/09/LG-Channels-logo-300x214.png",
       "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 5",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium5.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "titulo": "Es_Rakuten Tv",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
+      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
       "acceso": "anuncio"
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 6",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium6.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium 7",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium7.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Eventos EC",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EventosEC.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "titulo": "Mx_Samsung",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
+      "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "anuncio"
     },
     {
@@ -105,18 +91,18 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
       "acceso": "anuncio"
     },
+    }
+      "id": "premium_gratis",
+      "titulo": "Conejitas Traviesas",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/Adultos/",
+      "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
+      "acceso": "anuncio"
+    },
     {
       "id": "premium_gratis",
       "titulo": "Entretenimiento España",
       "url": "https://shundearies.github.io/Paginas-de-acceso/EntretenimientoEspana1/",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spain_film_clapperboard.svg/500px-Spain_film_clapperboard.svg.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Pluto Tv",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/PlutoTv/",
-      "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "anuncio"
     },
     {
@@ -187,34 +173,6 @@
       "titulo": "Costa Rica Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/CostaricaLocales/",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/1920px-Flag_of_Costa_Rica_%28state%29.svg.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Conejitas Traviesas",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/Adultos/",
-      "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "LG Channels",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/LGChannels.m3u",
-      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/09/LG-Channels-logo-300x214.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Es_Rakuten Tv",
-      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
-      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Mx_Samsung",
-      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
-      "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "anuncio"
     }
   ]
