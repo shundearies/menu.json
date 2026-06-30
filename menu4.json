@@ -42,7 +42,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio",
-      "reproductor": "inapp_webview_player"
+      "reproductor": " "
     },
     {
       "id": "premium_gratis",
@@ -50,7 +50,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.xxx",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
-      "reproductor": "webview_screen2"
+      "reproductor": " "
     },
     {
       "id": "premium_gratis",
@@ -109,7 +109,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium7.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player"
+      "reproductor":" "
     },
     {
       "id": "premium_gratis",
@@ -252,7 +252,7 @@
       "icono": " ",
       "acceso": "gratis",
       "contrasena": "2345",
-      "reproductor":"better_player"
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
