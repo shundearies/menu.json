@@ -61,9 +61,9 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Ultra Premium 2 (Prueba Piloto)",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "titulo": "TV AZTECA (geo-bloqueo)",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
       "acceso": "gratis"
     },
     {
