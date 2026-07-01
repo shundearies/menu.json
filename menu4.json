@@ -61,6 +61,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "RUN:TIME",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.yyy",
+      "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "TV AZTECA (geo-bloqueo)",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
