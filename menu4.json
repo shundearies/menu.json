@@ -64,7 +64,8 @@
       "titulo": "TV AZTECA (geo-bloqueo)",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
@@ -101,7 +102,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium6.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
-      "reproductor":"better_player"
+      "reproductor":" "
     },
     {
       "id": "premium_gratis",
