@@ -77,6 +77,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Deportes Full HD",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.yyy",
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Premium 3 (inactivo, en revision)",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
       "icono": "http://i.tvcluboficial.com/247.png",
