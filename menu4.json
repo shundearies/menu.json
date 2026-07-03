@@ -85,6 +85,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Plextv",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
+      "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Premium 3 (inactivo, en revision)",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
       "icono": "http://i.tvcluboficial.com/247.png",
