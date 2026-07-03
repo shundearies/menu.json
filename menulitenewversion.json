@@ -43,6 +43,13 @@
       "acceso": "Gratis"
     },
     {
+      "id": "contacto",
+      "titulo": "Leeme importante",
+      "url": "https://usoskippertv.pages.dev/",
+      "icono": " ",
+      "acceso": "Gratis"
+    },
+    {
       "id": "premium_gratis",
       "titulo": "Premium 1",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.xxx",
