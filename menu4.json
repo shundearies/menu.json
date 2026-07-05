@@ -78,8 +78,8 @@
     {
       "id": "premium_gratis",
       "titulo": "Canela Tv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.xxx",
-      "icono": "https://canela.tv/assets/images/logo/canelatv-logo.svg",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.yyy",
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZovZVfztzOs64or-gTtkyH5vdBi_rn-3bklxSlksO_Q&s",
       "acceso": "gratis",
       "reproductor":"inapp_webview_player"
     },
