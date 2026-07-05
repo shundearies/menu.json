@@ -77,7 +77,15 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Deportes Full HD",
+      "titulo": "Canela Tv",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.xxx",
+      "icono": "https://canela.tv/assets/images/logo/canelatv-logo.svg",
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Deportes",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.xxx",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
       "acceso": "gratis",
