@@ -283,7 +283,8 @@
       "titulo": "sniffer",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor":"webview_screen2"
     },
     {
       "id": "premium_gratis",
