@@ -65,7 +65,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player"
+      "reproductor":" "
     },
     {
       "id": "premium_gratis",
@@ -89,7 +89,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
-      "reproductor":"better_player"
+      "reproductor":" "
     },
     {
       "id": "premium_gratis",
@@ -105,7 +105,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.xxx",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player"
+      "reproductor":" "
     },
     {
       "id": "premium_gratis",
