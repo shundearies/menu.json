@@ -85,6 +85,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Tubi",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
+      "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
+      "acceso": "gratis",
+      "reproductor":"better_player"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Deportes",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.xxx",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
@@ -277,14 +285,6 @@
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "sniffer",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
-      "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
-      "acceso": "gratis",
-      "reproductor":" "
     },
     {
       "id": "premium_gratis",
