@@ -50,7 +50,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.bbb",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
-      "reproductor": " "
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
@@ -62,18 +62,18 @@
     {
       "id": "premium_gratis",
       "titulo": "RUN:TIME",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.yyy",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
       "titulo": "TV AZTECA (geo-bloqueo)",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.xxx",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
@@ -86,10 +86,10 @@
     {
       "id": "premium_gratis",
       "titulo": "Tubi",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.yyy",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
@@ -102,10 +102,10 @@
     {
       "id": "premium_gratis",
       "titulo": "Plextv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.xxx",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
