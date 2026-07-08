@@ -62,7 +62,7 @@
     {
       "id": "premium_gratis",
       "titulo": "RUN:TIME",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.yyy",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
       "reproductor":" "
@@ -70,7 +70,7 @@
     {
       "id": "premium_gratis",
       "titulo": "TV AZTECA (geo-bloqueo)",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
       "acceso": "gratis",
       "reproductor":" "
@@ -78,7 +78,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Canela Tv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.yyy",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZovZVfztzOs64or-gTtkyH5vdBi_rn-3bklxSlksO_Q&s",
       "acceso": "gratis",
       "reproductor":" "
@@ -86,7 +86,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Tubi",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.yyy",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
       "reproductor":" "
@@ -102,7 +102,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Plextv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
       "reproductor":" "
