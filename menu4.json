@@ -78,7 +78,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Canela Tv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.yyy",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Canelatv.m3u",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZovZVfztzOs64or-gTtkyH5vdBi_rn-3bklxSlksO_Q&s",
       "acceso": "gratis",
       "reproductor":"inapp_webview_player"
