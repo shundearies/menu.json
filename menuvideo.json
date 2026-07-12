@@ -1,0 +1,200 @@
+{
+  "menu": [
+       {
+      "id": "panel",
+      "titulo": "videomenu",
+      "video": "https://github.com/shundearies/Videos/raw/refs/heads/main/120fps%20%23aesthetic%20%23cartoon%20(online-video-cutter.com)%20(1).mp4",
+      "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
+      "acceso": "gratis"
+    },    
+    {
+      "id": "privacidad",
+      "titulo": "Política de privacidad",
+      "url": "https://privacidad2-2fy.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_c11664e5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "mi_lista_propia",
+      "titulo": "SUBIR MI LISTA",
+      "url": "user_input",
+      "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "juego_mosca",
+      "titulo": "Juego de la mosca",
+      "url": "nativa",
+      "icono": "https://drive.usercontent.google.com/u/0/uc?id=1a8nArGkPXGyANpB11Dm34LShHeS_265N&export=download",
+      "acceso": "gratis"
+    },
+    {
+      "id": "contacto",
+      "titulo": "información tvbox y contacto",
+      "url": "https://contacto-5gw.pages.dev/",
+      "icono": "https://img.magnific.com/vector-gratis/iconos-contacto-3d_1053-96.jpg?semt=ais_hybrid&w=740&q=80",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "contacto",
+      "titulo": "Como usar SkipperTv",
+      "url": "https://usoskippertv.pages.dev/",
+      "icono": " ",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "contacto",
+      "titulo": "Leeme importante",
+      "url": "https://actualizacion1.pages.dev/",
+      "icono": " ",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Lista Temporal (solo cine)",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/usuariospremium.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Web Free Full HD",
+      "url": "https://teledeportes.org/?p=tv",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Deportes",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.xxx",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "TV AZTECA (geo-bloqueo)",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Pluto Tv",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/PlutoTv/",
+      "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "LG Channels",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/LGChannels.m3u",
+      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/09/LG-Channels-logo-300x214.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Es_Rakuten Tv",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
+      "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Mx_Samsung",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
+      "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Entretenimiento Latino",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/movies%201/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Conejitas Traviesas",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/Adultos/",
+      "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Entretenimiento España",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/EntretenimientoEspana1/",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spain_film_clapperboard.svg/500px-Spain_film_clapperboard.svg.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "VIX",
+      "url": "https://proxima-ci3.pages.dev/",
+      "icono": "https://bonnus.me/wp-content/uploads/2024/09/VixPremium.jpg",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "España Locales",
+      "titulo": "España Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/EspanaLocales/",
+      "icono": "https://www.flagsonline.it/uploads/2016-9-2/420-272/spagna.jpg",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Argentina Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/ArgentinaLocales/",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Colombia Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/ColombiaLocales/",
+      "icono": "https://www.flagsonline.it/uploads/2016-6-6/420-272/colombia.jpg",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Multipaises Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/MultipaisLocales/",
+      "icono": "https://thumbs.dreamstime.com/b/banderas-internacionales-del-mundo-del-globo-33017697.jpg?w=768",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Honduras Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/HondurasLocales/",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg/330px-Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Mexico Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/MexicoLocales/",
+      "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Mexico Locales",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/MexicoLocales.m3u",
+      "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Ecuador Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/EcuadorLocales/",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png",
+      "acceso": "Gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Costa Rica Locales",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/CostaricaLocales/",
+      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/1920px-Flag_of_Costa_Rica_%28state%29.svg.png",
+      "acceso": "Gratis"
+    }
+  ]
+}
