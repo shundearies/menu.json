@@ -130,34 +130,11 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 5",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium5.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis",
-      "reproductor": "webview_screen2"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium 6",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium6.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis",
-      "reproductor":" "
-    },
-    {
-      "id": "premium_gratis",
       "titulo": "Premium 7",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium7.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
       "reproductor":" "
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium 8",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Premium8.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
