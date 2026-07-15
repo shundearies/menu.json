@@ -53,6 +53,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Tv de paga",
+      "url": "http://201.216.147.90:8729/playlist.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "RUN:TIME",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
