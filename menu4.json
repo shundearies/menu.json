@@ -123,6 +123,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Onlyfans",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/userpremium.zzz",
+      "icono": "https://marketing4ecommerce.mx/wp-content/uploads/2023/09/OnlyFans.jpeg",
+      "acceso": "gratis",
+      "contrasena": "1919"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Mexico Locales",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/MexicoLocales.m3u",
       "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
