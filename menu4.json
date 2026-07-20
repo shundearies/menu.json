@@ -15,15 +15,15 @@
       "acceso": "gratis"
     },
     {
-      "id": "juego_mosca",
-      "titulo": "Juego de la mosca",
-      "url": "nativa",
-      "icono": "https://drive.usercontent.google.com/u/0/uc?id=1a8nArGkPXGyANpB11Dm34LShHeS_265N&export=download",
-      "acceso": "gratis"
+      "id": "contacto",
+      "titulo": "¿Cómo ser usuario Premium?",
+      "url": "https://userpremium.pages.dev/",
+      "icono": " ",
+      "acceso": "Gratis"
     },
      {
       "id": "contacto",
-      "titulo": "información",
+      "titulo": "información tvbox",
       "url": "https://contacto-5gw.pages.dev/",
       "icono": "https://img.magnific.com/vector-gratis/iconos-contacto-3d_1053-96.jpg?semt=ais_hybrid&w=740&q=80",
       "acceso": "Gratis"
