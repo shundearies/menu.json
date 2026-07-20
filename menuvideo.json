@@ -34,6 +34,14 @@
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium1/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "R-2",
+      "url": "https://raw.githubusercontent.com/shundearies/imagenuser/refs/heads/main/Especial1.m3u",
+      "icono": " ",
+      "acceso": "gratis",
+      "contrasena": "123r"
     }
   ]
 }
