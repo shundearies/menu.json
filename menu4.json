@@ -18,7 +18,7 @@
       "id": "contacto",
       "titulo": "¿Cómo ser usuario Premium?",
       "url": "https://userpremium.pages.dev/",
-      "icono": " ",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
       "acceso": "Gratis"
     },
     {
@@ -243,7 +243,7 @@
       "id": "premium_gratis",
       "titulo": "Cuentas IPTV Gratis",
       "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski/",
-      "icono": " ",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis",
       "contrasena": "12378"
     }
