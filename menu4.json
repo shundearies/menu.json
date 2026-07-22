@@ -234,18 +234,18 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Cuentas IPTV Gratis",
-      "url": "https://cuentasiptv.pages.dev/",
-      "icono": " ",
-      "acceso": "gratis",
-      "contrasena": "12378"
-    },
-    {
-      "id": "premium_gratis",
       "titulo": "Mx_Samsung",
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Cuentas IPTV Gratis",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski/",
+      "icono": " ",
+      "acceso": "gratis",
+      "contrasena": "12378"
     }
   ]
 }
