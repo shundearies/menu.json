@@ -241,8 +241,15 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Cuentas IPTV Gratis",
+      "titulo": "Cuentas IPTV Gratis Latam",
       "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Cuentas IPTV Gratis España",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/38listaszk85.hofcepespna.txt",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "anuncio"
     }
