@@ -149,13 +149,6 @@
       "acceso": "gratis"
     },
     {
-      "id": "premium_gratis",
-      "titulo": "Entretenimiento España",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/EntretenimientoEspana1/",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Spain_film_clapperboard.svg/500px-Spain_film_clapperboard.svg.png",
-      "acceso": "anuncio"
-    },
-    {
       "id": "España Locales",
       "titulo": "España Locales",
       "url": "https://shundearies.github.io/Paginas-de-acceso/EspanaLocales/",
