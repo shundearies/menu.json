@@ -29,6 +29,13 @@
       "acceso": "gratis"
     },
     {
+      "id": "Contacto",
+      "titulo": "Contacto",
+      "url": "https://contacto-5gw.pages.dev/#tvbox",
+      "icono": " ",
+      "acceso": "gratis"
+    },
+    {
       "id": "premium_gratis",
       "titulo": "Premium",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium1/",
