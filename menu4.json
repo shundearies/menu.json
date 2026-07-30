@@ -42,7 +42,8 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":" ",
+      "contrasena": "123"
     },
     {
       "id": "premium_gratis",
