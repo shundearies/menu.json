@@ -201,7 +201,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Conejitas Traviesas",
-      "url": "https://pluto.tv/latam/",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/acceso.json.zzz",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
       "acceso": "gratis",
       "reproductor": "inapp_webview_player2"
