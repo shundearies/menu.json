@@ -15,13 +15,6 @@
       "acceso": "gratis"
     },
     {
-      "id": "contacto",
-      "titulo": "¿Cómo ser usuario Premium?",
-      "url": "https://userpremium.pages.dev/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
-      "acceso": "gratis"
-    },
-    {
       "id": "premium_gratis",
       "titulo": "Premium 1",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.yyy",
