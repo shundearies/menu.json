@@ -42,7 +42,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -50,14 +50,15 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
       "acceso": "gratis",
-      "reproductor":"video_player_native"
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
       "titulo": "Xtrema",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Xtrematv.m3u",
       "icono": "https://xtrematv.com/wp-content/uploads/2025/11/logo-600x250-1.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player"
     },
     {
       "id": "premium_gratis",
@@ -65,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.xxx",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player"
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -73,7 +74,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Canelatv.m3u",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZovZVfztzOs64or-gTtkyH5vdBi_rn-3bklxSlksO_Q&s",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -81,7 +82,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -89,7 +90,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.xxx",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -97,7 +98,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
-      "reproductor":"video_player_native"
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -209,49 +210,32 @@
       "titulo": "Conejitas Traviesas",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/xxxporno.m3u",
       "icono": "https://i.ebayimg.com/images/g/gTQAAOSw-TZoF3Jq/s-l1200.webp",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
       "titulo": "LG Channels",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/LGChannels.m3u",
       "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/09/LG-Channels-logo-300x214.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
       "titulo": "Es_Rakuten Tv",
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
       "icono": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
       "titulo": "Mx_Samsung",
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Cuentas IPTV Gratis Latam",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Cuentas IPTV Gratis Latam 2",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski2/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Cuentas IPTV Gratis España",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/38listaszk85.hofcepespna.txt",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
     }
   ]
 }
