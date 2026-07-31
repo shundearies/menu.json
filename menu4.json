@@ -42,8 +42,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
-      "reproductor":" ",
-      "contrasena": "123"
+      "reproductor":" "
     },
     {
       "id": "premium_gratis",
@@ -63,10 +62,10 @@
     {
       "id": "premium_gratis",
       "titulo": "Pluto Tv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.yyy",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player"
+      "reproductor":"video_player_native"
     },
     {
       "id": "premium_gratis",
@@ -79,7 +78,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Tubi",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.bbb",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
       "reproductor":" "
@@ -152,56 +151,56 @@
     {
       "id": "España Locales",
       "titulo": "España Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/EspanaLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/canalesdelaweb.m3u",
       "icono": "https://www.flagsonline.it/uploads/2016-9-2/420-272/spagna.jpg",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Argentina Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/ArgentinaLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/argentina.m3u",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Colombia Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/ColombiaLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u",
       "icono": "https://www.flagsonline.it/uploads/2016-6-6/420-272/colombia.jpg",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Multipaises Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/MultipaisLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/listas2345.m3u",
       "icono": "https://thumbs.dreamstime.com/b/banderas-internacionales-del-mundo-del-globo-33017697.jpg?w=768",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Honduras Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/HondurasLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/honduras.m3u",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg/330px-Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg.png",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Mexico Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/MexicoLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/mexico.m3u",
       "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Ecuador Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/EcuadorLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/ecuador.m3u",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png",
       "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
       "titulo": "Costa Rica Locales",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/CostaricaLocales/",
+      "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/costarica.m3u",
       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/1920px-Flag_of_Costa_Rica_%28state%29.svg.png",
       "acceso": "gratis"
     },
