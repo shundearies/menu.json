@@ -59,7 +59,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.yyy",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis",
-      "reproductor":"video_player_native"
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -72,7 +72,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Tubi",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.bbb",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
       "reproductor":" "
