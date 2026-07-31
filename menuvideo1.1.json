@@ -22,13 +22,6 @@
       "acceso": "gratis"
     },
     {
-      "id": "juego_mosca",
-      "titulo": "Juego de la mosca",
-      "url": "nativa",
-      "icono": "https://drive.usercontent.google.com/u/0/uc?id=1a8nArGkPXGyANpB11Dm34LShHeS_265N&export=download",
-      "acceso": "gratis"
-    },
-    {
       "id": "premium_gratis",
       "titulo": "Premium",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
