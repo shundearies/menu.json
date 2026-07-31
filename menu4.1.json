@@ -56,7 +56,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Pluto Tv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.xxx",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.bbb",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis",
       "reproductor":"video_player_native"
