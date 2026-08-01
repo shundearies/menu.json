@@ -21,7 +21,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Peticionespelis.m3u",
       "icono": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
       "acceso": "gratis",
-      "reproductor": "inapp_webview_player2"
+      "reproductor": " "
     },
     {
       "id": "premium_gratis",
