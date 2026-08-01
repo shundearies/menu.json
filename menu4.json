@@ -38,6 +38,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Spiderman Brand new day",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Peticionespelis.m3u",
+      "icono": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "acceso": "gratis",
+      "reproductor": "webview_screen2"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Web Free Full HD",
       "url": "https://teledeportes.org/?p=tv",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
