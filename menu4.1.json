@@ -17,14 +17,6 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Spiderman Brand new day",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Peticionespelis.m3u",
-      "icono": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "acceso": "gratis",
-      "reproductor": "webview_screen2"
-    },
-    {
-      "id": "premium_gratis",
       "titulo": "RUN:TIME",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
