@@ -208,6 +208,13 @@
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
       "acceso": "gratis",
       "reproductor": "inapp_webview_player2"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Userpremium",
+      "url": "https://github.com/shundearies/skipperImg/raw/refs/heads/main/userpremium.zzz",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+      "acceso": "gratis"
     }
   ]
 }
