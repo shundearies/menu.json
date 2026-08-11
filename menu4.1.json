@@ -98,7 +98,8 @@
       "titulo": "Premium 2",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EcuadoPremiumLogo.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "better_player"
     },
     {
       "id": "premium_gratis",
