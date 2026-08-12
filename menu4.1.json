@@ -131,13 +131,6 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Argentina Premium",
-      "url": "http://190.108.83.69:8000/playlist.m3u",
-      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
       "titulo": "Colombia Locales",
       "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/colombia.m3u",
       "icono": "https://www.flagsonline.it/uploads/2016-6-6/420-272/colombia.jpg",
