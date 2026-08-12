@@ -37,7 +37,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Xtrematv.m3u",
       "icono": "https://xtrematv.com/wp-content/uploads/2025/11/logo-600x250-1.png",
       "acceso": "gratis",
-      "reproductor": "inapp_webview_player"
+      "reproductor": "better_player"
     },
     {
       "id": "premium_gratis",
