@@ -20,14 +20,6 @@
       "url": "user_input",
       "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
       "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/premium3/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis",
-      "contrasena": ""
     }
   ]
 }
