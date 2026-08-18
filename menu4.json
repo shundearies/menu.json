@@ -16,8 +16,8 @@
     },
     {
       "id": "contacto",
-      "titulo": "¿Cómo ser usuario Premium?",
-      "url": "https://userpremium.pages.dev/",
+      "titulo": "Próximamente",
+      "url": "https://www.google.com",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
       "acceso": "gratis"
     },
@@ -39,7 +39,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Web Free Full HD",
-      "url": "https://teledeportes.org/?p=tv",
+      "url": "https://teledeportes.st/?p=tv",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
@@ -251,13 +251,6 @@
       "titulo": "Cuentas IPTV Gratis Latam 2",
       "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski2/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
-      "acceso": "anuncio"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Cuentas Buzo",
-      "url": "https://www.buzo-tv.app/?type=J-ANER1#instalar",
-      "icono": "https://www.buzo-tv.app/images/buzo-tv.webp",
       "acceso": "anuncio"
     }
   ]
