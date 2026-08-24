@@ -34,7 +34,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.yyy",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio",
-      "reproductor": "inapp_webview_player"
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -49,7 +49,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.xxx",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player"
+      "reproductor":" "
     },
     {
       "id": "premium_gratis",
@@ -65,7 +65,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Xtrematv.m3u",
       "icono": "https://xtrematv.com/wp-content/uploads/2025/11/logo-600x250-1.png",
       "acceso": "gratis",
-      "reproductor": "inapp_webview_player"
+      "reproductor": " "
     },
     {
       "id": "premium_gratis",
