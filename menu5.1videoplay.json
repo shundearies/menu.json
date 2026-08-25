@@ -27,6 +27,20 @@
       "url": "nativa",
       "icono": "https://drive.usercontent.google.com/u/0/uc?id=1a8nArGkPXGyANpB11Dm34LShHeS_265N&export=download",
       "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium Tv Móvil",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/Vix/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Cuentas Iptv Gratis",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/PlutoTv/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "anuncio"
     }
   ]
 }
