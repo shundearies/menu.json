@@ -16,13 +16,6 @@
     },
     {
       "id": "contacto",
-      "titulo": "¿Cómo ser usuario Premium?",
-      "url": "https://userpremium.pages.dev/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
-      "acceso": "gratis"
-    },
-    {
-      "id": "contacto",
       "titulo": "Clave Acceso Tvbox",
       "url": "https://shundearies.github.io/Paginas-de-acceso/Adultos/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9b90e31e-357a-471d-938a-28014bbd2675~2.jpeg",
@@ -30,7 +23,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 1",
+      "titulo": "Premium 1 (en mantenimiento)",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.yyy",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "anuncio",
