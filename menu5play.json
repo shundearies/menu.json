@@ -23,10 +23,10 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 1 (en mantenimiento)",
+      "titulo": "Premium 1",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.yyy",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis",
+      "acceso": "anuncio",
       "reproductor": "inapp_webview_player2"
     },
     {
