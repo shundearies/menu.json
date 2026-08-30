@@ -250,10 +250,11 @@
     {
       "id": "premium_gratis",
       "titulo": "administrador",
-      "url": "https://github.com/shundearies/imagenuser/raw/refs/heads/main/173%20vipxtreamx.com_8080%20(3).txt2",
+      "url": "https://gitlab.com/lu4ehf/iptv/-/raw/main/hosts_activos.m3u?ref_type=heads",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis",
-      "contrasena": "109898"
+      "contrasena": "109898",
+      "reproductor": "better_player"
     }
   ]
     }
