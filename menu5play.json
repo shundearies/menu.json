@@ -263,6 +263,15 @@
       "acceso": "gratis",
       "contrasena": "109898",
       "reproductor": "better_player"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "administrador",
+      "url": "https://apps2026.online/nuevorqtv/rqtvpro3.php?full",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
+      "acceso": "gratis",
+      "contrasena": "109898",
+      "reproductor": "inapp_webview_player2"
     }
   ]
     }
