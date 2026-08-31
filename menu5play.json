@@ -31,6 +31,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Casa de los famosos",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/rqtvpro3.txt.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "anuncio",
+      "reproductor": "inapp_webview_player2"
+    }
+    {
+      "id": "premium_gratis",
       "titulo": "La casa de los famosos",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/lacasadelosfamosos.m3u",
       "icono": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-01/LCDLF6356x180LogoWhite-2b48c1.png",
