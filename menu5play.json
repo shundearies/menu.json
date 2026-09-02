@@ -33,9 +33,9 @@
       "id": "premium_gratis",
       "titulo": "Casa de los famosos",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/face-casadelosfamosos.json.yyy",
-      "icono": "",
+      "icono": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-01/LCDLF6356x180LogoWhite-2b48c1.png",
       "acceso": "anuncio",
-      "reproductor": "inapp_webview_player2"
+      "reproductor": "inapp_webview_player"
     },
     {
       "id": "premium_gratis",
