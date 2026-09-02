@@ -32,8 +32,8 @@
     {
       "id": "premium_gratis",
       "titulo": "Casa de los famosos",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/rqtvpro3.txt.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/face-casadelosfamosos.json.yyy",
+      "icono": "",
       "acceso": "anuncio",
       "reproductor": "inapp_webview_player2"
     },
