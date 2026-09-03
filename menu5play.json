@@ -289,6 +289,15 @@
       "acceso": "gratis",
       "contrasena": "109898",
       "reproductor": " "
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "administrador",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/OndoTv.w3u.txt.aaa",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
+      "acceso": "gratis",
+      "contrasena": "109898",
+      "reproductor": " "
     }
   ]
     }
