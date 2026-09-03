@@ -298,6 +298,15 @@
       "acceso": "gratis",
       "contrasena": "109898",
       "reproductor": " "
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "administrador",
+      "url": "https://raw.githubusercontent.com/ThedarkSoldier996/novaplayfree/refs/heads/main/novafree.json.aaa",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
+      "acceso": "gratis",
+      "contrasena": "109898",
+      "reproductor": " "
     }
   ]
     }
