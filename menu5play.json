@@ -275,7 +275,7 @@
     {
       "id": "premium_gratis",
       "titulo": "administrador",
-      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy.bbb",
+      "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mpdpruevas.json.yyy",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis",
       "contrasena": "109898",
