@@ -66,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
       "acceso": "gratis",
-      "reproductor":"codigo"
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
