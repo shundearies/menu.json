@@ -111,7 +111,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Plextv",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.bbb",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
       "reproductor":"better_player"
