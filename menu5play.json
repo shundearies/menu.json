@@ -279,7 +279,7 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis",
       "contrasena": "109898",
-      "reproductor": "codigo"
+      "reproductor": " "
     },
     {
       "id": "premium_gratis",
@@ -306,7 +306,7 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis",
       "contrasena": "109898",
-      "reproductor": " "
+      "reproductor": "codigo"
     }
   ]
     }
