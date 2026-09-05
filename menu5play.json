@@ -114,7 +114,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
-      "reproductor":"video_player_native"
+      "reproductor":"inapp_webbiew_player2"
     },
     {
       "id": "premium_gratis",
@@ -279,7 +279,7 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis",
       "contrasena": "109898",
-      "reproductor": "codigo"
+      "reproductor": " "
     },
     {
       "id": "premium_gratis",
