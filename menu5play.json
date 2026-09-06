@@ -293,11 +293,12 @@
     {
       "id": "premium_gratis",
       "titulo": "administrador",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/OndoTv.w3u.txt.aaa",
+      "url": "https://raw.githubusercontent.com/ENZO799-ui/OndoTv.apk/refs/heads/main/Killerchannels.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis",
       "contrasena": "109898",
-      "reproductor": "inapp_webview_player2"
+      "reproductor": "inapp_webview_player2",
+      "pantalla": "w3u"
     },
     {
       "id": "premium_gratis",
