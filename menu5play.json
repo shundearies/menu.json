@@ -320,6 +320,16 @@
       "contrasena": "109898",
       "reproductor": " ",
       "pantalla":" "
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "administrador",
+      "url": "https://mrghnngupolsgatcmevw.supabase.co/storage/v1/object/public/Novaplay/novaplay.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
+      "acceso": "gratis",
+      "contrasena": "109898",
+      "reproductor": " ",
+      "pantalla":" "
     }
   ]
     }
