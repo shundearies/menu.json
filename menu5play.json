@@ -330,6 +330,16 @@
       "contrasena": "109898",
       "reproductor": " ",
       "pantalla":"MpdScreenFull2"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "administrador",
+      "url": "https://www.tvplusgratis.org/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
+      "acceso": "gratis",
+      "contrasena": "109898",
+      "reproductor": " ",
+      "pantalla":" "
     }
   ]
     }
