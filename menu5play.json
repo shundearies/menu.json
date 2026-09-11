@@ -340,6 +340,16 @@
       "contrasena": "109898",
       "reproductor": " ",
       "pantalla":" "
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "administrador",
+      "url": "https://vix.com/es-es",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
+      "acceso": "gratis",
+      "contrasena": "109898",
+      "reproductor": " ",
+      "pantalla":" "
     }
   ]
     }
