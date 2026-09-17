@@ -39,6 +39,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Premium 3",
+      "url": "http://45.166.93.156:9999/playlist.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis",
+      "reproductor": "better_player"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "La casa de los famosos",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/lacasadelosfamosos.m3u",
       "icono": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-01/LCDLF6356x180LogoWhite-2b48c1.png",
