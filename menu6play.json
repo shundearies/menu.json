@@ -66,7 +66,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.bbb",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -74,7 +74,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TvAzteca.json.yyy",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9VJim2N1Y-TNuinHZyfcZwoPSmYbzsVd-dqGbLgHEYBNsK_oUaYhYDU&s=10",
       "acceso": "gratis",
-      "reproductor":"better_player"
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -82,7 +82,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Xtrematv.m3u",
       "icono": "https://xtrematv.com/wp-content/uploads/2025/11/logo-600x250-1.png",
       "acceso": "gratis",
-      "reproductor": " "
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -90,7 +90,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.yyy",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis",
-      "reproductor":"better_player"
+      "reproductor":"inapp_webview_player"
     },
     {
       "id": "premium_gratis",
@@ -98,7 +98,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.bbb",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZovZVfztzOs64or-gTtkyH5vdBi_rn-3bklxSlksO_Q&s",
       "acceso": "gratis",
-      "reproductor":"better_player"
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -114,7 +114,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.bbb",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -122,21 +122,22 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
-      "reproductor":" "
+      "reproductor":"inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
       "titulo": "24/7",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/24-7.m3u",
       "icono": "http://i.tvcluboficial.com/247.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
       "titulo": "Usuarios Premium",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Pruebaplaylism3u.zzz",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
-      "acceso": "anuncio"
+      "acceso": "gratis"
     },
     {
       "id": "premium_gratis",
@@ -150,7 +151,8 @@
       "titulo": "Premium 2",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EcuadoPremiumLogo.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
@@ -164,7 +166,8 @@
       "titulo": "Entretenimiento Latino",
       "url": "https://github.com/shundearies/Canales-Iptv/raw/refs/heads/main/PeliculasLatinos1.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "España Locales",
