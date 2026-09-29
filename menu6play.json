@@ -31,7 +31,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium 2",
+      "titulo": "CANALES ASTRAS",
       "url": "http://181.119.215.61:8000/playlist.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
@@ -47,15 +47,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "La casa de los famosos",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/lacasadelosfamosos.m3u",
-      "icono": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2026-01/LCDLF6356x180LogoWhite-2b48c1.png",
-      "acceso": "gratis",
-      "reproductor": " "
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "WEB FREE",
+      "titulo": "PAGINAS WEB",
       "url": "https://teledeportes.st/?p=tv",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
@@ -78,7 +70,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Xtrema",
+      "titulo": "XTREMA",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Xtrematv.m3u",
       "icono": "https://xtrematv.com/wp-content/uploads/2025/11/logo-600x250-1.png",
       "acceso": "gratis",
@@ -86,7 +78,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Pluto Tv",
+      "titulo": "PLUTO LATAM",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.yyy",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis",
@@ -94,7 +86,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Canela Tv",
+      "titulo": "CANELA TV",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/canelatv.json.bbb",
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZovZVfztzOs64or-gTtkyH5vdBi_rn-3bklxSlksO_Q&s",
       "acceso": "gratis",
@@ -102,7 +94,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Tubi",
+      "titulo": "TUBI",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.yyy",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
@@ -110,7 +102,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Deportes",
+      "titulo": "DEPORTES OPC 1",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.bbb",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
       "acceso": "gratis",
@@ -118,7 +110,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Plextv",
+      "titulo": "PLEXTV",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
@@ -258,20 +250,6 @@
       "titulo": "Mx_Samsung",
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/mx_samsung.m3u",
       "icono": "https://img.global.news.samsung.com/mx/wp-content/uploads/2026/01/Samsung-TV-Plus_1000.jpg",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Cuentas IPTV Gratis Latam",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Cuentas IPTV Gratis Latam 2",
-      "url": "https://shundearies.github.io/Paginas-de-acceso/wiwiryski2/",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
       "acceso": "gratis"
     },
     {
