@@ -32,16 +32,8 @@
     {
       "id": "premium_gratis",
       "titulo": "CANALES ASTRAS",
-      "url": "http://181.119.215.61:8000/playlist.m3u",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/CanalesAstras.zzz",
       "icono": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
-      "acceso": "gratis",
-      "reproductor": "better_player"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium 3",
-      "url": "http://138.59.177.78:9999/playlist.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
       "reproductor": "better_player"
     },
@@ -137,14 +129,6 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/MexicoLocales.m3u",
       "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
       "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Premium 2",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EcuadoPremiumLogo.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis",
-      "reproductor": "inapp_webview_player2"
     },
     {
       "id": "premium_gratis",
