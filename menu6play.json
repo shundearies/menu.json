@@ -102,6 +102,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "DEPORTES OPC 2",
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player2"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "PLEX TV",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Plex-all.zzz",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
