@@ -231,6 +231,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "TCL CHANNELS",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tcl.m3u8",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TCL.jpeg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "administrador",
       "url": "https://gitlab.com/lu4ehf/iptv/-/raw/main/hosts_activos.m3u?ref_type=heads",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Cunetasiptv.jpg",
