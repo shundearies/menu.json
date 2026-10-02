@@ -110,6 +110,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "LG-CHANNELS",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/lg_channels_us.m3u",
+      "icono": "https://www.lg.com/mx/soporte/?srsltid=AU7gw4U_O-wVUljeAll0KPfbpC7Bpyex0RnfhnBzfiNKQuqTKOkERnQX#tabs-7e8c019172-item-031ae22f14-tab",
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player2"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "24/7",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/24-7.m3u",
       "icono": "http://i.tvcluboficial.com/247.png",
