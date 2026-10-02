@@ -134,6 +134,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "Comunidad",
+      "url": "https://spinoff.link/coleccion/lista.m3u",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+      "acceso": "gratis",
+      "pantalla":"PantallaListaIPTV"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "Mexico Locales",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/MexicoLocales.m3u",
       "icono": "https://m.media-amazon.com/images/I/71xZU2JbzAL._AC_UF894,1000_QL80_FMwebp_.jpg",
