@@ -70,8 +70,8 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "PLUTO LATAM",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto.yyy",
+      "titulo": "PLUTO TV",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Pluto.zzz",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
       "acceso": "gratis",
       "reproductor":"inapp_webview_player"
@@ -102,7 +102,7 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "PLEXTV",
+      "titulo": "PLEX TV",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Plex-all.zzz",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
       "acceso": "gratis",
