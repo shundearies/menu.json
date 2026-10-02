@@ -87,7 +87,7 @@
     {
       "id": "premium_gratis",
       "titulo": "TUBI",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.yyy",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TUBI.zzz",
       "icono": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
       "acceso": "gratis",
       "reproductor":"inapp_webview_player2"
