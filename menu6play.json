@@ -102,9 +102,9 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "DEPORTES OPC 2",
+      "titulo": "USA",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tv-usa.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
+      "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/USA_Flag_Map.svg/1920px-USA_Flag_Map.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
       "acceso": "gratis",
       "reproductor":"better_player",
       "pantalla":"MpdScreenFull2"
