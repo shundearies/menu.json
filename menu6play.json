@@ -94,6 +94,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "ROKU CHANNELS",
+      "url": "https://raw.githubusercontent.com/BuddyChewChew/roku-playlist-generator/refs/heads/main/roku.m3u",
+      "icono": "https://cigars.roku.com/v1/cover/198x148/https%3A%2F%2Frsp.web.roku.com%2Fproduction%2F8f350042-ae1d-48b1-bf51-e09a2348483f",
+      "acceso": "gratis",
+      "reproductor":"inapp_webview_player2"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "DEPORTES OPC 1",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.bbb",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/c647201c-a919-4a57-be59-3fdd866f123d.jpeg",
