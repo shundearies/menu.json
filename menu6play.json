@@ -158,16 +158,9 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Eventos EC",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/EventosEC.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
       "titulo": "Entretenimiento Latino",
       "url": "https://github.com/shundearies/Canales-Iptv/raw/refs/heads/main/PeliculasLatinos1.m3u",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
       "acceso": "gratis",
       "reproductor": "inapp_webview_player2"
     },
