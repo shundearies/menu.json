@@ -129,6 +129,15 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "USA",
+      "url": "https://raw.githubusercontent.com/chapkazi25-web/cdnlivetv-m3u/refs/heads/main/cdnlivetv_english.m3u8",
+      "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/USA_Flag_Map.svg/1920px-USA_Flag_Map.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+      "acceso": "gratis",
+      "reproductor":"better_player",
+      "pantalla":"MpdScreenFull2"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "PLEX TV",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Plex-all.zzz",
       "icono": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
