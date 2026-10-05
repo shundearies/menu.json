@@ -19,7 +19,8 @@
       "titulo": "SUBIR MI LISTA",
       "url": "user_input",
       "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "contrasena": "109898"
     },
     {
       "id": "juego_mosca",
@@ -30,18 +31,18 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "Premium",
+      "titulo": "Premium tv gratis",
       "url": "https://shundearies.github.io/Paginas-de-acceso/premium1/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "contrasena": "109898"
     },
     {
       "id": "premium_gratis",
       "titulo": "Cuentas Iptv Gratis",
       "url": "https://shundearies.github.io/Paginas-de-acceso/PlutoTv/",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "anuncio",
-      "contrasena": "109898"
+      "acceso": "anuncio"
     }
   ]
 }
