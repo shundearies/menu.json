@@ -21,7 +21,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.yyy",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
-      "reproductor": "inapp_webview_player2"
+      "reproductor": "video_player"
     },
     {
       "id": "premium_gratis",
