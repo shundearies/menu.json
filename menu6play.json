@@ -122,7 +122,7 @@
     {
       "id": "premium_gratis",
       "titulo": "24/7",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/24-7.m3u",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/24-7.zzz",
       "icono": "http://i.tvcluboficial.com/247.png",
       "acceso": "gratis",
       "reproductor": "inapp_webview_player2"
