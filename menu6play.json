@@ -270,7 +270,7 @@
     "url": "https://pelisjuanita.com/tv/tv-world/index.php",
     "contrasena": "1010",
     "reproductor": "better_player",
-    "pantalla": "MpdScreenFull2"
+    "pantalla": "webview"
     }
   ]
     }
