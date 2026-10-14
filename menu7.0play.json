@@ -255,6 +255,13 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tcl.m3u8",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TCL.jpeg",
       "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Administrador",
+      "url": "    ",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tvpeliculas.zzz",
+      "acceso": "gratis"
     }
   ]
     }
