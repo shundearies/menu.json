@@ -259,7 +259,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Administrador",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/FullHD.json",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hub.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
       "pantalla":"SmartListScreen"
