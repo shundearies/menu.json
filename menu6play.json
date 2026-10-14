@@ -263,6 +263,14 @@
     "contrasena": "1010",
     "reproductor": "better_player",
     "pantalla": "MpdScreenFull2"
-  }
+  },
+    {
+    "nombre": "Administrador 2",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/USA_Flag_Map.svg/1920px-USA_Flag_Map.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "url": "https://pelisjuanita.com/tv/tv-world/index.php",
+    "contrasena": "1010",
+    "reproductor": "better_player",
+    "pantalla": "MpdScreenFull2"
+    }
   ]
     }
