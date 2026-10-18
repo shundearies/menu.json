@@ -163,7 +163,8 @@
       "url": "https://github.com/shundearies/Canales-Iptv/raw/refs/heads/main/PeliculasLatinos1.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
       "acceso": "gratis",
-      "reproductor": "inapp_webview_player2"
+      "reproductor": "inapp_webview_player2",
+      "pantalla": "NetflixDashboardScreen"
     },
     {
       "id": "España Locales",
