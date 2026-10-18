@@ -271,7 +271,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hub.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
-      "pantalla":"SmartListScreen"
+      "pantalla":"WebViewIframe"
     },
     {
       "id": "premium_gratis",
@@ -279,7 +279,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hub.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
-      "pantalla":"SmartListScreen"
+      "pantalla":"VideoCastWeb"
     }
   ]
     }
