@@ -264,6 +264,22 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
       "pantalla":"SmartListScreen"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "WebViewIframe",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hub.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
+      "acceso": "gratis",
+      "pantalla":"SmartListScreen"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "VideoCastWeb",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hub.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
+      "acceso": "gratis",
+      "pantalla":"SmartListScreen"
     }
   ]
     }
