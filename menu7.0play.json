@@ -287,7 +287,8 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/gemini-code-1792948638816.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
-      "pantalla":"SmartListScreen"
+      "pantalla":"SmartListScreen",
+      "reproductor": "video_player_native"
     }
   ]
     }
