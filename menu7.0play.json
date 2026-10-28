@@ -264,7 +264,7 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
       "pantalla":"SmartListScreen",
-      "reproductor": "ReproductorFullBitmovin"
+      "reproductor": "PantallaWebView"
     },
     {
       "id": "premium_gratis",
