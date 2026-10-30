@@ -263,7 +263,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/FullHD.zzz",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
-      "pantalla":"SmartListScreen",
+      "pantalla":"",
       "reproductor": "PantallaWebView"
     },
     {
