@@ -49,6 +49,13 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "WEB PELICULAS",
+      "url": "https://teledeportes.st/?p=tv",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/web%7E2.jpeg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "RUN:TIME",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/RunTime(web).json.bbb",
       "icono": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
