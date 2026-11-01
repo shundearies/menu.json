@@ -25,6 +25,15 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "TV FULL HD",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/FullHD.zzz",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
+      "acceso": "gratis",
+      "pantalla":"",
+      "reproductor": "PantallaWebView"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "CANALES ASTRAS",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/CanalesAstras.zzz",
       "icono": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
@@ -256,15 +265,6 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tcl.m3u8",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/TCL.jpeg",
       "acceso": "gratis"
-    },
-    {
-      "id": "premium_gratis",
-      "titulo": "Canales Full HD",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/FullHD.zzz",
-      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
-      "acceso": "gratis",
-      "pantalla":"",
-      "reproductor": "PantallaWebView"
     },
     {
       "id": "premium_gratis",
