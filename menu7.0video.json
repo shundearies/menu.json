@@ -32,9 +32,10 @@
     {
       "id": "premium_gratis",
       "titulo": "Herramientas",
-      "url": "https://skippertvinicio.pages.dev/link4/herramientas",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Herramientas.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/herramientalite.jpeg",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "pantalla":""
     },
     {
       "id": "premium_gratis",
@@ -47,16 +48,18 @@
     {
       "id": "premium_gratis",
       "titulo": "Cuentas Iptv Gratis",
-      "url": "https://skippertvinicio.pages.dev/link2/cuentasiptv",
+      "url": "https://raw.githubusercontent.com/shundearies/menu.json/refs/heads/main/Listasgratis.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "Pantalla":""
     },
     {
       "id": "premium_gratis",
       "titulo": "CLAVES DE ACCESO",
-      "url": "https://skippertvinicio.pages.dev/link3/clavedeacceso",
+      "url": "https://raw.githubusercontent.com/shundearies/menu.json/refs/heads/main/Clave-Acceso.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
-      "acceso": "gratis"
+      "acceso": "gratis",
+      "pantalla":""
     }
   ]
 }
