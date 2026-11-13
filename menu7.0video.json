@@ -35,7 +35,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Herramientas.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/herramientalite.jpeg",
       "acceso": "gratis",
-      "pantalla":""
+      "pantalla":"SnifferListScreen2"
     },
     {
       "id": "premium_gratis",
@@ -51,7 +51,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/menu.json/refs/heads/main/Listasgratis.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
       "acceso": "gratis",
-      "Pantalla":""
+      "Pantalla":"SnifferListScreen2"
     },
     {
       "id": "premium_gratis",
@@ -59,7 +59,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/menu.json/refs/heads/main/Clave-Acceso.json",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis",
-      "pantalla":""
+      "pantalla":"SnifferListScreen2"
     }
   ]
 }
