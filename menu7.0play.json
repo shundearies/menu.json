@@ -50,7 +50,7 @@
     {
       "id": "premium_gratis",
       "titulo": "WEB PELICULAS",
-      "url": "https://teledeportes.st/?p=tv",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/webpeliculas.zzz",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/web%7E2.jpeg",
       "acceso": "gratis"
     },
@@ -192,7 +192,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Entretenimiento Latino",
-      "url": "https://github.com/shundearies/Canales-Iptv/raw/refs/heads/main/PeliculasLatinos1.m3u",
+      "url": "https://github.com/shundearies/skipperImg/raw/refs/heads/main/pelissinimportancia.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
       "acceso": "gratis",
       "reproductor": "inapp_webview_player2",
