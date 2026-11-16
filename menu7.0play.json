@@ -127,6 +127,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "AGENDA DEPORTIVA",
+      "url": "https://www.rbtvplus18.ink/es",
+      "icono": "https://statics1.tcpwe138stya.ru/img/rb/web-logo-rbplus.png",
+      "acceso": "gratis",
+      "reproductor":""
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "USA",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/USA.zzz",
       "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/USA_Flag_Map.svg/1920px-USA_Flag_Map.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
