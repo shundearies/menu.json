@@ -112,10 +112,11 @@
     {
       "id": "premium_gratis",
       "titulo": "ROKU CHANNELS",
-      "url": "https://raw.githubusercontent.com/BuddyChewChew/roku-playlist-generator/refs/heads/main/roku.m3u",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/roku_all.txt",
       "icono": "https://cigars.roku.com/v1/cover/198x148/https%3A%2F%2Frsp.web.roku.com%2Fproduction%2F8f350042-ae1d-48b1-bf51-e09a2348483f",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player2"
+      "reproductor":"inapp_webview_player2",
+      "pantalla": "PantallaListaIPTV"
     },
     {
       "id": "premium_gratis",
