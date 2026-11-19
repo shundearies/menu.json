@@ -205,7 +205,7 @@
       "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIrLdQfYDddPWaSP3GAKj422bSLqpSaDuYu13sqMZeA&s",
       "acceso": "gratis",
       "reproductor": "inapp_webview_player2",
-      "pantalla": "NetflixDashboardScreen"
+      "pantalla": "PantallaListaIPTV"
     },
     {
       "id": "España Locales",
