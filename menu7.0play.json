@@ -199,6 +199,15 @@
       "pantalla": "NetflixDashboardScreen"
     },
     {
+      "id": "premium_gratis",
+      "titulo": "CANALES YOUTUBE",
+      "url": "https://m3ukodi.com/site/playlist_tube/generate_m3u.php",
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIrLdQfYDddPWaSP3GAKj422bSLqpSaDuYu13sqMZeA&s",
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2",
+      "pantalla": "NetflixDashboardScreen"
+    },
+    {
       "id": "España Locales",
       "titulo": "España Locales",
       "url": "https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/canalesdelaweb.m3u",
