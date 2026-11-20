@@ -87,6 +87,14 @@
     },
     {
       "id": "premium_gratis",
+      "titulo": "ENT TV",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/ENTChannel.m3u",
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCblcUVGia34-ZozvhtLuazlWX0L5NmkhCpgp7GuMsl_VCM_CvgyRNRo&s=10",
+      "acceso": "gratis",
+      "reproductor": "inapp_webview_player2"
+    },
+    {
+      "id": "premium_gratis",
       "titulo": "PLUTO TV",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Pluto.zzz",
       "icono": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
