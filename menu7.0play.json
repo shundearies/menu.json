@@ -128,11 +128,12 @@
     },
     {
       "id": "premium_gratis",
-      "titulo": "DEPORTES OPC 1",
-      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/streamtp.sbs.json.bbb",
+      "titulo": "DEPORTES",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/cdplay.live.txt",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Deportes%7E2.jpeg",
       "acceso": "gratis",
-      "reproductor":"inapp_webview_player2"
+      "reproductor":"inapp_webview_player2",
+      "pantalla":"SnifferListScreen2"
     },
     {
       "id": "premium_gratis",
