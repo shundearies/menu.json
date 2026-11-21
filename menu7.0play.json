@@ -133,7 +133,7 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Deportes%7E2.jpeg",
       "acceso": "gratis",
       "reproductor":"inapp_webview_player2",
-      "pantalla":"MpdScreenFull2"
+      "pantalla":"MpdScreenFull"
     },
     {
       "id": "premium_gratis",
