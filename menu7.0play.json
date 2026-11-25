@@ -172,7 +172,7 @@
       "id": "premium_gratis",
       "titulo": "FREETV",
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/freetv.m3u",
-      "icono": "https://www.powanime.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.20s1cpohe8ozi.png&w=384&q=75",
+      "icono": "https://www.freetv.com/themes/custom/oly/freetv/logo.png",
       "acceso": "gratis",
       "reproductor": "inapp_webview_player2"
     },
