@@ -321,7 +321,7 @@
       "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Sonychannel.json",
       "icono": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/250px-Sony_Channel_Logo.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
       "acceso": "gratis",
-      "reproductor": "inapp_webview_player2",
+      "reproductor": "ReproductorFullScreen22",
       "pantalla":"SmartListScreen"
     }
   ]
