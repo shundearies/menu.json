@@ -1,0 +1,66 @@
+{
+  "menu": [
+       {
+      "id": "panel",
+      "titulo": "videomenu",
+      "video": "https://github.com/shundearies/Videos/raw/refs/heads/main/MONSTER%20GAROU%20VS%20BOMB.mp4",
+      "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
+      "acceso": "gratis"
+    },    
+    {
+      "id": "privacidad",
+      "titulo": "Política de privacidad",
+      "url": "https://privacidad2-2fy.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_c11664e5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "mi_lista_propia",
+      "titulo": "SUBIR MI LISTA",
+      "url": "user_input",
+      "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
+      "acceso": "gratis",
+      "contrasena": ""
+    },
+    {
+      "id": "juego_mosca",
+      "titulo": "Juego de la mosca",
+      "url": "nativa",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/7892-removebg-preview%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Herramientas",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Herramientas.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/herramientalite.jpeg",
+      "acceso": "gratis",
+      "pantalla":"MenuPrincipal"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium tv gratis",
+      "url": "https://shundearies.github.io/Paginas-de-acceso/premium2,https://panel-dn5.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
+      "acceso": "gratis",
+      "contrasena": "",
+      "pantalla":"WebViewDosPage"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Cuentas Iptv Gratis",
+      "url": "https://raw.githubusercontent.com/shundearies/menu.json/refs/heads/main/Listasgratis.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
+      "acceso": "gratis",
+      "pantalla":"MenuPrincipal"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "CLAVES DE ACCESO",
+      "url": "https://raw.githubusercontent.com/shundearies/menu.json/refs/heads/main/Clave-Acceso.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis",
+      "pantalla":"MenuPrincipal"
+    }
+  ]
+}
